@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ricardoramirezstack&color=1a6b59&style=for-the-badge&label=Visitas+al+perfil)
+[![](https://visitcount.itsvg.in/api?id=ricardoramirezstack&label=Visitas%20al%20Perfil&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
