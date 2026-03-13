@@ -175,14 +175,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-82b37a3b5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoramirez.stack@gmail.com)
-
-<br/>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ricardo-ramirez-82b37a3b5)
+&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ricardoramirez.stack@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
