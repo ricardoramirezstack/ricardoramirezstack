@@ -73,63 +73,55 @@
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Tech Stack
 
 <div align="center">
 
+### 💬 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python"/>
+</p>
+
+<br/>
+
 ### 🎨 Frontend
 
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap"/>
+</p>
 
 <br/>
-
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br/><br/>
 
 ### ⚙️ Backend
 
-<br/>
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br/><br/>
-
-### 🗄️ Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 <br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### 🗄️ Databases
 
-<br/><br/>
-
-### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### ☁️ Cloud & Tools
 
-<br/><br/>
-
-### 🎨 Diseño & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman"/>
+</p>
 
 <br/>
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
 </div>
 
