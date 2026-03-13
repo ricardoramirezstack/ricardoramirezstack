@@ -17,17 +17,15 @@
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 Sobre mí
-```javascript
-const ricardo = {
-  rol:         "Fullstack Developer",
-  titulo:      "Ingeniero de Sistemas",
-  ubicacion:   "Colombia 🇨🇴",
-  trabajando:  ["Hand", "Luxesneaks"],
-  pasiones:    ["Clean Code", "UX/UI", "Soluciones digitales"],
-  aprendiendo: ["AWS", "Python", "Arquitectura de software"],
-  meta:        "Transformar ideas en experiencias digitales increíbles 🚀"
-};
-```
+## 👨‍💻 Sobre mí
+
+- 🚀 **Rol:** Fullstack Developer
+- 🎓 **Título:** Ingeniero de Sistemas
+- 📍 **Ubicación:** Colombia 🇨🇴
+- 💼 **Trabajando en:** Hand & Luxesneaks
+- ❤️ **Pasiones:** Clean Code, UX/UI, Soluciones digitales
+- 📚 **Aprendiendo:** AWS, Python, Arquitectura de software
+- 🎯 **Meta:** Transformar ideas en experiencias digitales increíbles 🚀
 
 <br clear="right"/>
 
