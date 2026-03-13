@@ -42,13 +42,7 @@
         Sistema innovador de gestión y ayuda que conecta personas, optimiza procesos y genera impacto real en comunidades.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://skillicons.dev/icons?i=angular,nodejs,ts,js,express,mongodb,bootstrap"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -57,21 +51,13 @@
         E-commerce premium de calzado exclusivo con catálogo dinámico, experiencia de compra fluida y pasarela de pagos.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://skillicons.dev/icons?i=angular,nodejs,ts,js,express,mongodb,bootstrap"/>
       </p>
     </td>
   </tr>
 </table>
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
