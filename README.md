@@ -117,21 +117,43 @@
 
 ![Ricardo's Stats](https://github-readme-stats.vercel.app/api?username=ricardoramirezstack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1aff9c&icon_color=1a6b59&text_color=ffffff)
 
+</div>
+
+---
+
+## 💬 Lenguajes más usados
+
+<div align="center">
+
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoramirezstack&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1aff9c&text_color=ffffff)
 
+</div>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<div align="center">
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ricardoramirezstack&theme=tokyonight&hide_border=true&background=0d1117&ring=1a6b59&fire=1aff9c&currStreakLabel=1aff9c)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
 
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ricardoramirezstack&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
 
 ## 🐍 Contribuciones
 
