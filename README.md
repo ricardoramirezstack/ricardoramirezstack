@@ -7,9 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1aff9c&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%F0%9F%9A%80;Ingeniero+de+Sistemas+%F0%9F%92%BB;JavaScript+%7C+TypeScript+%7C+Angular;Node.js+%7C+MongoDB+%7C+Express;Transformando+ideas+en+c%C3%B3digo+%E2%9C%A8;Apasionado+por+el+dise%C3%B1o+UX%2FUI+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 <br/>
-
-[![](https://visitcount.itsvg.in/api?id=ricardoramirezstack&label=Visitas%20al%20Perfil&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=ricardoramirezstack&color=0e7a5c&style=for-the-badge&label=👁️+VISITAS+AL+PERFIL&abbreviated=true"/>
 </div>
 
 ---
