@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ricardoramirezstack&color=1a6b59&style=flat&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=ricardoramirezstack&color=1a6b59&style=for-the-badge&label=Visitas+al+perfil)
 
 </div>
 
