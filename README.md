@@ -143,15 +143,7 @@
 
 ---
 
-## 🏆 Trofeos
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardoramirezstack&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardoramirezstack&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🐍 Contribuciones
 
