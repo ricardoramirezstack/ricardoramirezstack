@@ -1,20 +1,35 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b59,100:0d1117&height=200&section=header&text=Hola,%20soy%20Ricardo%20Ramirez&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d2e,70:1a6b59,100:0d1117&height=220&section=header&text=Ricardo%20Ramirez&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Ingeniero%20de%20Sistemas&descAlignY=58&descSize=20&descColor=7fffd4)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1a6b59&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apasionado+por+crear+soluciones+digitales;Transformando+ideas+en+c%C3%B3digo+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1aff9c&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%F0%9F%9A%80;Ingeniero+de+Sistemas+%F0%9F%92%BB;JavaScript+%7C+TypeScript+%7C+Angular;Node.js+%7C+MongoDB+%7C+Express;Transformando+ideas+en+c%C3%B3digo+%E2%9C%A8;Apasionado+por+el+dise%C3%B1o+UX%2FUI+%F0%9F%8E%A8)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ricardoramirezstack&color=1a6b59&style=flat&label=Visitas+al+perfil)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🚀 Trabajando en proyectos innovadores que generan impacto real
-- 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas
-- 💡 Apasionado por transformar ideas en soluciones digitales funcionales
-- 🎯 Enfocado en crear experiencias de usuario memorables
-- 📍 Colombia
+## 👨‍💻 Sobre mí
+```javascript
+const ricardo = {
+  rol:         "Fullstack Developer",
+  titulo:      "Ingeniero de Sistemas",
+  ubicacion:   "Colombia 🇨🇴",
+  trabajando:  ["Hand", "Luxesneaks"],
+  pasiones:    ["Clean Code", "UX/UI", "Soluciones digitales"],
+  aprendiendo: ["AWS", "Python", "Arquitectura de software"],
+  meta:        "Transformar ideas en experiencias digitales increíbles 🚀"
+};
+```
+
+<br clear="right"/>
 
 ---
 
@@ -24,28 +39,34 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🤝 Hand</h3>
       <p align="center">
-        Sistema de gestión e innovador que conecta personas y optimiza procesos de manera inteligente y eficiente.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👟 Luxesneaks</h3>
-      <p align="center">
-        E-commerce premium de calzado exclusivo con experiencia de compra fluida, catálogo dinámico y pasarela de pagos.
+        Sistema innovador de gestión y ayuda que conecta personas, optimiza procesos y genera impacto real en comunidades.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👟 Luxesneaks</h3>
+      <p align="center">
+        E-commerce premium de calzado exclusivo con catálogo dinámico, experiencia de compra fluida y pasarela de pagos.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -59,50 +80,83 @@
 
 <div align="center">
 
-**Frontend**
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<br/>
 
-**Backend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<br/>
 
-**Tools**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<br/><br/>
+
+### ⚙️ Backend
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br/><br/>
+
+### 🗄️ Bases de Datos
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<br/><br/>
+
+### ☁️ Cloud & DevOps
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br/><br/>
+
+### 🎨 Diseño & UX/UI
+
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoramirezstack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoramirezstack&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<br/>
+
+![Ricardo's Stats](https://github-readme-stats.vercel.app/api?username=ricardoramirezstack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1aff9c&icon_color=1a6b59&text_color=ffffff)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ricardoramirezstack&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoramirezstack&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1aff9c&text_color=ffffff)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardoramirezstack&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ricardoramirezstack&theme=tokyonight&hide_border=true&background=0d1117&ring=1a6b59&fire=1aff9c&currStreakLabel=1aff9c)](https://git.io/streak-stats)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ricardoramirezstack&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -112,7 +166,11 @@
 
 <div align="center">
 
-![snake gif](https://github.com/ricardoramirezstack/ricardoramirezstack/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ricardoramirezstack/ricardoramirezstack/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ricardoramirezstack/ricardoramirezstack/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://github.com/ricardoramirezstack/ricardoramirezstack/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -122,9 +180,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardoramirezstack)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ricardoramirezstack)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-82b37a3b5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoramirez.stack@gmail.com)
+
+<br/>
 
 </div>
 
@@ -132,6 +193,8 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b59,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d2e,70:1a6b59,100:0d1117&height=120&section=footer)
+
+*⭐ Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios*
 
 </div>
