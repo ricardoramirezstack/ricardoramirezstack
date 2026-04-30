@@ -33,7 +33,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 Hand</h3>
+      <h3 align="center">
+  <a href="https://hand.cleancodejr.site">
+    🤝 Hand
+  </a>
+</h3>
       <p align="center">
         Sistema innovador de gestión y ayuda que conecta personas, optimiza procesos y genera impacto real en comunidades.
       </p>
@@ -42,7 +46,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👟 Luxesneaks</h3>
+      <h3 align="center">
+  <a href="https://luxesneaks.cleancodejr.site">
+    👟 Luxesneaks
+  </a>
+</h3>
       <p align="center">
         E-commerce premium de calzado exclusivo con catálogo dinámico, experiencia de compra fluida y pasarela de pagos.
       </p>
